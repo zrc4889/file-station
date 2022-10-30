@@ -13,7 +13,7 @@ function checkKey() {
     arr["key"] = "key.html";
     arr["update"] = "update.html";
     arr["about"] = "about.html";
-    arr["test"] = "/files/testfile.txt";
+    arr["test"] = "files/testfile.txt";
     arr["foi"] = "https://zrc4889.github.io/Cpp-Code/";
     arr["csp1"] = "https://zrc4889.github.io/Cpp-Code/Blue";
 
