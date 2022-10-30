@@ -8,11 +8,12 @@ function checkKey() {
     // var key = prompt("Input your key:", "");
     var arr = new Array;
 
-    arr["users"] = "https://zrc4889.github.io/users.html";
-    arr["about"] = "https://zrc4889.github.io/about.html";
-    arr["key"] = "https://zrc4889.github.io/key.html";
-    arr["update"] = "https://zrc4889.github.io/update.html";
-    arr["about"] = "https://zrc4889.github.io/about.html";
+    arr["users"] = "users.html";
+    arr["about"] = "about.html";
+    arr["key"] = "key.html";
+    arr["update"] = "update.html";
+    arr["about"] = "about.html";
+    arr["test"] = "/files/testfile.txt";
     arr["foi"] = "https://zrc4889.github.io/Cpp-Code/";
     arr["csp1"] = "https://zrc4889.github.io/Cpp-Code/Blue";
 
