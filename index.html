@@ -4,29 +4,25 @@
 <head>
     <meta charset="utf-8">
     <title>zrc4889's 文件站</title>
+    <link rel="stylesheet" href="template.css" type="text/css">
+    <script type="text/javascript" src="template.js"></script>
 </head>
 
 <body>
-    <script>
-        var key = prompt("Input your key:", "");
-        var arr = new Array;
 
-        // arr["fuck"] = "https://cn.bing.com/";
-        arr["key"] = "https://zrc4889.github.io/key.html";
-        arr["update"] = "https://zrc4889.github.io/update.html";
-        arr["foi"] = "https://zrc4889.github.io/Cpp-Code/";
-        arr["csp1"] = "https://zrc4889.github.io/Cpp-Code/Blue";
-
-        if (arr[key] == undefined) {
-            alert("The key is undefined!");
-        }
-        else {
-            location.href = (arr[key]);
-            // window.opener = null;
-            // window.close();
-        }
-
-    </script>
+    <div class="text-center">
+        <p>Please input your key.😊</p>
+        <p id="text"> </p>
+        <input type="text" id="key"></input>
+        <button type="button" onclick="checkKey()"> Submit </button>
+        <br></br>
+        <p>
+            Tips: This website is building now.
+        </p>
+        <p>
+            Happy Halloween! Trick-or-treating!🍬
+        </p>
+    </div>
 </body>
 
 </html>

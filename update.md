@@ -11,5 +11,3 @@
 - 实现输入 key 的功能
 
 - 新增 key.html、update.html （均使用 markdown 进行转换）
-
-- 存在窗口拦截问题，将在下一次提交中修复

@@ -1,0 +1,19 @@
+.tag-purple {
+    background-color: #8E44AD;
+    color: white;
+}
+
+.text-center {
+    text-align: center;
+    /*让div内部文字居中*/
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 300px;
+    height: 350px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
