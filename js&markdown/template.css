@@ -2,9 +2,8 @@
     background-color: #8E44AD;
     color: white;
 }
-/* 待维护标签 */
-span {
-    background-color: #8E44AD;
+.tag-red{
+    background-color: #ff0000;
     color: white;
 }
 

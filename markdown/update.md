@@ -13,3 +13,9 @@
 - 新增 key.html、update.html （均使用 markdown 进行转换）
 
 - 用户页面暂有 BUG
+
+### 2022年10月31日 alpha0.1
+
+- 为用户加入了 tag
+
+- 新增首页 index.html 查询用户 tag 的功能
